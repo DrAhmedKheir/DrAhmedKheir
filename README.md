@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on application of modeling and machine learning on food security and nutrition
+- 🌱 I’m currently learning NLP and Sentiment Analysis
+- 👯 I’m looking to collaborate on coupling CMs, RS, and ML 
 
 <!--
 **DrAhmedKheir/DrAhmedKheir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
