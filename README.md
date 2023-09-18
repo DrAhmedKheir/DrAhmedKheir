@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on application of modeling and machine learning on food security and nutrition
-- 🌱 Next working on NLP and Sentiment Analysis for bigdata
+- 🌱 Next working on developing agroforestry modeling
 - 👯 Working now on coupling CMs, RS, and ML based cloud computing for yield gap analysis 
 
 <!--
