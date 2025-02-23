@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on application of modeling and machine learning on food security and nutrition
 - 🌱 Next working on developing agroforestry modeling
-- 👯 Working now on coupling CMs, RS, and ML based cloud computing for yield gap analysis 
+- 👯 Working now on coupling CMs, RS, and ML based cloud computing for yield gap analysis
+- Developping hybrid process-based machine learning agroforestry decision support tool
 
 <!--
 **DrAhmedKheir/DrAhmedKheir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
