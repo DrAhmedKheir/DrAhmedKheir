@@ -4,6 +4,9 @@
 - 👯 Working now on coupling CMs, RS, and ML based cloud computing for yield gap analysis
 - Developping hybrid process-based machine learning agroforestry decision support tool (DST)
 - AI agent and LLM  in digital agriculture
+- Running spatial hybrid models on HPC cluster
+- Cloud computing using GCP, Azure and Amazon
+  
 
 <!--
 **DrAhmedKheir/DrAhmedKheir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
