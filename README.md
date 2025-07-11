@@ -2,7 +2,7 @@
 - 🔭 Developping hybrid modeling, RS and machine learning on agroforestry, food security and nutrition
 - 🌱 Developing agroforestry hybrid modeling (Hi-sAFe_ML)
 - 👯 Working now on coupling CMs, RS, and ML based cloud computing for yield gap analysis
-- Developping hybrid process-based machine learning agroforestry decision support tool
+- Developping hybrid process-based machine learning agroforestry decision support tool (DST)
 - AI agent and LLM  in digital agriculture
 
 <!--
