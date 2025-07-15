@@ -3,7 +3,7 @@
 - 🌱 Developing agroforestry hybrid modeling (Hi-sAFe_ML)
 - 👯 Working now on coupling CMs, RS, and ML based cloud computing for yield gap analysis
 - Developping hybrid process-based machine learning agroforestry decision support tool (DST)
-- AI agent and LLM  in digital agriculture
+- AI agent and LLM  in digital agriculture (text analysis, agricultural reports, farmer interviews)
 - Running spatial hybrid models on HPC cluster
 - Cloud computing using GCP, Azure and Amazon
   
