@@ -6,6 +6,7 @@
 - AI agent and LLM  in digital agriculture (text analysis, agricultural reports, farmer interviews)
 - Running spatial hybrid models on HPC cluster
 - Cloud computing using GCP, Azure and Amazon
+- Developping microclimate model and weather forecasting by integrating LSTM-AI Agent approach
   
 
 <!--
