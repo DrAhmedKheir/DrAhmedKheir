@@ -7,6 +7,7 @@
 - Running spatial hybrid models on HPC cluster
 - Cloud computing using GCP, Azure and Amazon
 - Developping microclimate model and weather forecasting by integrating LSTM-AI Agent approach with proximal sensing (IOT, sensors...)
+- Integrating proximal sensing (IOT, thermal cameras, EC weather stations, soil sensors, ..) with ML, AI Agent, PBM, RS for high quality and finer resolution decisions
   
 
 <!--
